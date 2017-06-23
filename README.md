@@ -1,3 +1,4 @@
+[MagicCraft]: https://github.com/stesenkoroman/ModPE/
 # ModPE
 Mods on MinecraftPE
 ## Minecraft versions
